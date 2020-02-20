@@ -180,13 +180,15 @@ h2 {
   font-family: 'Lacquer', sans-serif;
 }
 .intro {
-  max-width: 80%;
+  max-width: 40%;
   margin: 0 auto;
   margin-bottom: 1px solid;
 }
 .navigation {
   display: flex;
   max-width: 100%;
+  padding-left: 22%;
+  padding-right: 22%;
   justify-content: space-around;
   margin-bottom: 2px dotted gray;
 }
